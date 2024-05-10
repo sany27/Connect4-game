@@ -1,4 +1,4 @@
-# Connect4-game
+# Connect4-game using java
 This Connect 4 game is a JavaFX implementation of the classic two-player strategy game. Players take turns dropping colored discs into a vertically suspended grid, aiming to connect four of their own discs horizontally, vertically, or diagonally before their opponent does.
 
 Key Features:
